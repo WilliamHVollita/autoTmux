@@ -2,7 +2,7 @@
 sh script for automatically enable tmux environment when logged into shell
 
 ## !!! Warning !!!
-### make sure you have another user(root at best) able to log in, since bugs within all actions below may cause your user to be permanently unable to log in.
+### make sure you have another user(preferably root) able to log in, since bugs within all actions below may cause your user to be permanently unable to log in.
 
 ## Usage: 
 ### put autoTmux.sh in your home dir, then add following lines to your .xshrc (e.g. .bashrc, .zshrc): 
